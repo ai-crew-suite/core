@@ -1,4 +1,4 @@
-# AI Crew Suite Core Plugins
+# AI Crew Suite for Spotify Backstage IDP - Core Plugins
 
 ![AI Crew Suite core plugins splash image](./ai-crew-suite-social-share-core.jpeg)
 
